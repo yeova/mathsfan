@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="600c11a0-ef87-4af1-a589-c0e98ae58476" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/maths-fan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/main/static/main/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/main/static/main/img/logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/main/templates/main/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/main/templates/main/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/main/templates/main/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/news/templates/news/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/news/templates/news/news_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/news/templates/news/news_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/news/templates/news/news_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsfan/news/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fKhEEtbYk3qE4M0QITtlV43CrD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.about.html.executor": "Run",
+    "JavaScript Debug.layout.html.executor": "Run",
+    "JavaScript Debug.news_home.html.executor": "Run",
+    "Python.urls.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/eeovaa/PycharmProjects/maths-fan/mathsfan/main/static/main/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mathsfan/main/static/main/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mathsfan/main/static/main/img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="600c11a0-ef87-4af1-a589-c0e98ae58476" name="Changes" comment="" />
+      <created>1713555562182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713555562182</updated>
+      <workItem from="1713555563184" duration="6360000" />
+      <workItem from="1713590746202" duration="3021000" />
+      <workItem from="1713593793510" duration="342000" />
+      <workItem from="1713594138902" duration="1458000" />
+      <workItem from="1713604491364" duration="5089000" />
+      <workItem from="1713609871499" duration="7516000" />
+      <workItem from="1713633475851" duration="7013000" />
+      <workItem from="1713641107878" duration="12903000" />
+      <workItem from="1713684914606" duration="470000" />
+      <workItem from="1713686136673" duration="1382000" />
+      <workItem from="1713687838330" duration="10388000" />
+      <workItem from="1713806980102" duration="2105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maths_fan$urls.coverage" NAME="urls Coverage Results" MODIFIED="1713607024787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mathsfan/mathsfan" />
+  </component>
+</project>
